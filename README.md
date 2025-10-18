@@ -4,21 +4,28 @@
 
 > *"With over 30 years in marketing, I've learned that real impact comes from listening deeply, solving precisely, and always staying ahead of what's next. AI is simply the newest—and most powerful—tool to do just that."*
 
-I architect and deploy **production-ready AI agents** and **intelligent SaaS platforms** that solve real business challenges. From AI-powered CRM migration tools to multi-agent business intelligence systems, I transform complex problems into elegant, automated solutions.
+I architect and deploy **production-ready AI agents** and **intelligent SaaS platforms** that solve real business challenges. My expertise spans AI-powered automation, multi-agent RAG systems, and full-stack development—delivering solutions that combine cutting-edge technology with three decades of business insight.
 
-**Currently:** Building BizzBrain.AI - a spin-off of Carism USA dedicated to AI development, automation, training, and governance.
+**Currently:** Building BizzBrain.AI (Carism USA spin-off) dedicated to AI development, automation, training, and governance.
 
 ---
 
 ## 🚀 What I Do
 
-I specialize in **AI-first product development** that combines cutting-edge technology with 30+ years of marketing and business expertise:
+**🤖 AI Agent Development**  
+Multi-agent RAG systems · LangChain workflows · Intelligent automation · Vector embeddings
 
-- **🤖 AI Agent Development** - Multi-agent RAG systems, LangChain workflows, and intelligent automation
-- **📊 Business Intelligence Platforms** - Data-driven SaaS solutions delivering actionable insights
-- **⚡ Workflow Automation** - n8n orchestration, API design, and enterprise integrations  
-- **📱 Full-Stack SaaS** - End-to-end application development from concept to App Store
-- **🎓 AI Training & Governance** - Helping companies adopt AI responsibly and effectively
+**📊 Business Intelligence Platforms**  
+Data-driven SaaS · Strategic insights · Marketing intelligence · Lead scoring
+
+**⚡ Workflow Automation**  
+n8n orchestration · API design · Enterprise integrations · Process optimization
+
+**📱 Full-Stack SaaS Development**  
+React/TypeScript · Python/FastAPI · Mobile apps · Production deployments
+
+**🎓 AI Training & Governance**  
+Enterprise AI adoption · Responsible AI frameworks · Team upskilling
 
 ---
 
@@ -28,138 +35,162 @@ I specialize in **AI-first product development** that combines cutting-edge tech
 OpenAI API · Claude API · Gemini · LangChain · RAG · Vector Embeddings · Prompt Engineering · Hugging Face
 
 **Backend & APIs**  
-Python · FastAPI · Node.js · TypeScript · Playwright · PyInstaller · REST APIs
+Python · FastAPI · Node.js · TypeScript · Playwright · PyInstaller · REST APIs · Edge Functions
 
 **Automation & Orchestration**  
-n8n · Make.com · Voiceflow · Workflow Automation · Webhooks · MCP (Model Context Protocol)
+n8n · Make.com · Voiceflow · Workflow Automation · Webhooks · MCP · SendGrid · Twilio
 
 **Data & Databases**  
-Qdrant · Vector Databases · Supabase · SQLite · Data Processing · CSV/JSON
+PostgreSQL · Supabase · Qdrant · Vector Databases · SQLite · Data Processing
 
 **Cloud & DevOps**  
-AWS ECS · Docker · GitHub Actions · CI/CD · Vercel · Railway
+AWS ECS · Docker · GitHub Actions · CI/CD · Vercel · Railway · Deno
 
 **Frontend & Mobile**  
-JavaScript · React · TypeScript · HTML/CSS · Tailwind · Jinja2 · Mobile App Development
+React 18 · TypeScript · Tailwind CSS · Vite · Capacitor · iOS Development
 
 ---
 
-## 💼 Featured Projects
+## 💼 Flagship Projects
+
+### 🎯 **CARISM SDR System** - Enterprise AI Sales Development Platform
+> *State-of-the-art automated B2B prospecting with multi-touch nurture sequences*
+
+**The Most Advanced AI SDR System Built to Date**
+
+A comprehensive intelligent Sales Development Representative system that discovers, enriches, and engages B2B prospects at scale with unprecedented personalization.
+
+**🔥 Key Capabilities:**
+- **Multi-Source Discovery Engine** - Apollo, PDL, Hunter.io, Apify, SerpAPI integration
+- **7-Touch Nurture Sequences** - Adaptive messaging with behavioral tracking
+- **AI Email Writer V2** - Hyper-personalized emails using LinkedIn intelligence, employment history, tech stack analysis
+- **Deep Enrichment** - Company firmographics, tech stack detection, contact validation
+- **Intelligent Automation** - Domain warmup, daily caps, safety rails, compliance enforcement
+- **Real-Time Analytics** - Event tracking, performance dashboards, conversion funnels
+
+**🏗️ Technical Architecture:**
+- **Frontend:** React 18 + TypeScript + Vite + Radix UI + Tailwind
+- **Backend:** PostgreSQL + Supabase + 40+ Deno Edge Functions
+- **AI Integration:** OpenAI GPT-4 + Claude for strategic analysis
+- **Email Infrastructure:** SendGrid + NeverBounce validation
+- **Data Sources:** Apollo.io · People Data Labs · Hunter.io · BuiltWith · Dealfront
+
+**📊 Performance:**
+- Processes 10,000+ prospects/month at ~$0.11 per prospect
+- 7-touch sequence with adaptive timing (0, 3, 4, 3, 5, 7, 7 days)
+- Automatic pause on reply detection
+- Sub-60s business assessments
+
+**🎯 Innovation Highlights:**
+- First SDR system with LinkedIn-enriched AI email generation
+- Behavioral adaptation based on opens/clicks/replies
+- Materialized views for instant eligibility checks
+- Complete interaction history across all touches
+
+🌐 **[See Technical Overview](link-to-your-docs)**
+
+---
 
 ### 🏛️ **Spartacus** - AI-Powered CRM Migration Agent
 > *The first AI-powered local migration agent for insurance professionals*
 
-Automates secure CRM data extraction using browser automation. Provides private, compliant data migration without cloud dependencies—everything runs locally.
+Automates secure CRM data extraction using browser automation. Everything runs locally—no cloud dependencies, complete privacy.
 
 **Tech:** FastAPI · Playwright · PyInstaller · GitHub Actions  
-**Key Features:** Agentic automation · Structured exports · Demo & Pro modes · Windows/macOS builds  
-**Status:** Production-ready with GitHub Actions CI/CD
+**Features:** Agentic automation · Structured exports · Demo & Pro modes · Windows/macOS builds  
+**Status:** Production-ready with automated CI/CD
 
 ---
 
 ### 🧠 **BizzBrain.AI** - AI Automation & Development Company
-> *Carism USA spin-off dedicated to AI solutions*
+> *Carism USA spin-off specializing in AI solutions*
 
-A modular Agentic RAG AI platform delivering strategic insights across marketing, finance, and operations through orchestrated multi-agent workflows.
+Modular Agentic RAG AI platform delivering strategic insights across marketing, finance, and operations through orchestrated multi-agent workflows.
 
-**Services:** AI Development · Workflow Automation · AI Training · AI Governance  
-**Tech:** n8n · OpenAI Embeddings · Qdrant · FastAPI · Docker · AWS ECS  
+**Services:**
+- AI Development & Custom Solutions
+- Workflow Automation (n8n/Make.com)
+- AI Training & Team Upskilling
+- AI Governance & Responsible AI
+
+**Tech:** n8n · OpenAI · Qdrant · FastAPI · Docker · AWS ECS  
 **Impact:** Sub-60s business assessments · 30% improvement in insight relevance
 
 🌐 **[Discover BizzBrain.AI](https://bizzbrain.ai)**
 
 ---
 
-### 💖 **BondQuest.AI** - Relationship Intelligence App
-> *LIVE on Apple App Store*
+## 📱 Production Web Applications (9 Apps Live)
 
-AI-powered relationship app helping individuals and couples improve communication and track emotional patterns with guided exercises and behavioral insights.
+### **Consumer Apps**
 
-**Tech:** TypeScript · Mobile Development · AI SaaS · OpenAI API  
-**Status:** ✅ Published on App Store  
-**Features:** Guided exercises · Emotional tracking · AI-powered insights
+**💖 BondQuest.AI** - Relationship Intelligence App  
+✅ **LIVE on Apple App Store**  
+AI-powered app for couples improving communication and emotional patterns with guided exercises and behavioral insights.  
+**Tech:** TypeScript · Mobile · AI SaaS · OpenAI API
 
-🍎 **[Download on App Store](https://apps.apple.com/app/bondquest)**
+**🌟 Momentum Flow** - ADHD-Friendly Productivity  
+⏳ **App Store Review - Launching Soon**  
+Productivity app for ADHD entrepreneurs with energy tracking, body doubling, and adaptive focus modes.  
+**Tech:** Mobile Development · Capacitor · StoreKit · 42 optimized database tables
 
----
+**🗺️ WiseTrip.us** - AI Travel Planning Platform  
+✅ **Live Beta**  
+Collaborative travel planner with AI Trip Wizard, smart itineraries, and budget management.  
+**Tech:** TypeScript · HTML · 45-table database · Price monitoring  
+🌐 **[Try WiseTrip](https://wisetrip.us)**
 
-### 🌟 **Momentum Flow** - ADHD-Friendly Productivity App
-> *Currently in App Store review*
-
-Productivity app designed specifically for entrepreneurs and professionals with ADHD traits, featuring energy tracking, body doubling, and adaptive focus modes.
-
-**Tech:** Mobile Development · AI SaaS · User-Centered Design  
-**Features:** Energy tracking · Body doubling · Adaptive focus modes  
-**Status:** App Store review - launching soon
-
----
-
-### 🗺️ **WiseTrip.us** - AI Travel Planning Platform
-> *Beta version live*
-
-Collaborative AI-powered travel planner with smart itineraries, budget management, and multi-user collaboration.
-
-**Tech:** TypeScript · HTML · AI SaaS · Collaborative Tools  
-**Status:** Beta with AI Trip Wizard deployed  
-**Features:** Smart itineraries · Budget management · Activity suggestions
-
-🌐 **[Try WiseTrip.us](https://wisetrip.us)**
+**📊 QueueEase** - Queue Management System  
+✅ **Production Ready**  
+Real-time queue management for walk-in businesses. 17+ businesses, 39 active services.  
+**Tech:** TypeScript · Google Maps API · Real-time updates · Mobile-first
 
 ---
 
-### 📊 **QueueEase** - AI Queue Management SaaS
+### **Business Intelligence Apps**
 
-Smart queue management system enabling service businesses to serve 30% more customers through AI-powered flow optimization and real-time updates.
+**🎯 HelixAdvisors.AI** - Startup Intelligence Platform  
+✅ **Production Ready**  
+Automatically discovers and ranks profitable startup opportunities by monitoring Reddit, Indie Hackers, Product Hunt, TechCrunch. Dual AI analysis with GPT-4 and Claude.  
+**Business Model:** SaaS subscriptions ($49-$999/mo)  
+🌐 **[Visit HelixAdvisors](https://helixadvisors.ai)**
 
-**Tech:** TypeScript · Python · OpenAI API · QR Code Integration  
-**ROI:** 30% increase in daily customer capacity  
-**Features:** QR check-in · Real-time updates · AI flow management
-
-🌐 **[Visit QueueEase](https://queueease.com)**
-
----
-
-### 🧭 **CareerPathway.io** - Career Transition Mapper
-
-AI-driven career mapping tool helping professionals navigate transitions by identifying transferable skills and mapping clear pathways to new careers.
-
-**Tech:** AI Strategy · NLP · Career Development · UX Design  
-**Impact:** Faster clarity for career changers
-
----
-
-### 🎯 **Intel.CarismUSA.com** - AI Marketing Audit Tool
-> *200+ businesses served*
-
-Self-serve AI audit platform analyzing visibility, SEO, and marketing strategy—delivering strategic insights in minutes without expensive consulting.
-
-**Tech:** Python · OpenAI API · Marketing Analytics · Business Intelligence  
-**Impact:** Used by 200+ small businesses  
-**Revenue:** Uncovered revenue opportunities for SMBs
-
+**📊 Intel.CarismUSA.com** - AI Marketing Audit  
+✅ **200+ Businesses Served**  
+Self-serve AI audit platform analyzing visibility, SEO, and marketing strategy. 32-point scoring system with AI recommendations.  
+**Impact:** Uncovered revenue opportunities for SMBs  
 🌐 **[Get Your Audit](https://intel.carismusa.com)**
 
+**🏢 Hub.CarismUSA.com** - Marketing Intelligence Hub  
+✅ **Production Ready**  
+Lead enrichment platform with psychological profiling, intelligence synthesis, and email automation. 17 AI edge functions.  
+**Tech:** AI-powered lead scoring · Behavioral analysis · Self-learning algorithms
+
+**🧭 CareerPathway.io** - Career Transition Platform  
+✅ **Production Ready**  
+AI-powered career development SaaS with resume analysis, skill gap identification, and interview preparation.  
+**Tech:** 31-table database · OpenAI integration · Subscription-based
+
+**🔧 SalesVoice.io** - Sales Collaboration Platform  
+✅ **Production Ready**  
+Public demo platform showcasing AI-powered sales tools with real-time collaboration features.  
+**Tech:** WebSocket presence · OpenAI integration · Mobile-responsive
+
 ---
 
-### 🚀 **HelixAdvisors.AI** - Startup Intelligence Platform
+## 🔬 Development Projects & Tools
 
-Startup intelligence SaaS that evaluates business ideas with AI-powered scoring, market insights, and positioning strategies.
+**📈 Viral-API** - Marketing Content Automation  
+Headlines tracker with AI content generation and LinkedIn/Facebook publishing
 
-**Tech:** AI Strategy · Business Intelligence · Market Research  
-**Features:** Idea scoring · Trend analysis · Positioning strategies  
-**Value:** Data-backed validation · Reduced investment waste
+**⚖️ Strategic Trial Simulation** - Legal Education  
+Interactive trial simulation game for legal education platform
 
----
+**🔍 Lead-Score-API** - LangChain Lead Scoring  
+FastAPI wrapper around LangChain lead-scoring chain using GPT-3.5-turbo
 
-### 📱 **Additional Projects**
-
-**Viral-API** - Marketing headlines tracker with AI content generation and LinkedIn/Facebook publishing  
-**Strategic Trial Simulation** - Legal education platform with interactive trial simulation game  
-**Complete-Working-Game** - TypeScript game development project  
-**HelixAdvisors-AI** - Startup intelligence with AI-powered idea discovery (TypeScript/Supabase/Vercel)  
-**Lead-Score-API** - FastAPI wrapper around LangChain lead-scoring chain (GPT-3.5-turbo)  
-**AI-Prompts-Library** - Prompt engineering notes and best practices  
-**Carism-SDR-Platform** - Next.js 15 SDR automation platform for Railway deployment
+**📝 AI-Prompts-Library** - Prompt Engineering  
+Comprehensive prompt engineering notes and best practices
 
 ---
 
@@ -167,23 +198,22 @@ Startup intelligence SaaS that evaluates business ideas with AI-powered scoring,
 
 - 🎓 **Make Advanced** - Marketing Automation (Make.com, Jun 2025)
 - 🎓 **Make Intermediate** - Marketing Automation (Make.com, Jun 2025)
-- 🎓 **LangChain: Application Development Essentials** - Coursera Instructor Network (Jun 2025)
+- 🎓 **LangChain: Application Development Essentials** - Coursera (Jun 2025)
 - 🎓 **n8n Certification** - Marketing Automation (May 2025)
 - 🎓 **Programming for Everybody (Python)** - University of Michigan (Apr 2025)
 - 🎓 **Google Prompting Essentials** - Google (Feb 2025)
 - 🎓 **Inbound Marketing** - HubSpot Academy (Oct 2025, Expires Nov 2027)
 
-📚 **Full 20-week AI Agent Master Plan:** [View on Notion](https://www.notion.so/1f74805894588091ae79e11d2a10070a)
-
 ---
 
 ## 🎯 Current Focus (October 2025)
 
-- 🏛️ **Spartacus:** Refining CI/CD pipeline and preparing enterprise licensing model
-- 🧠 **BizzBrain.AI:** Expanding AI automation services and training programs
-- 💖 **BondQuest.AI:** Monitoring App Store performance and gathering user feedback
+- 🎯 **CARISM SDR:** Scaling nurture sequences and expanding multi-channel capabilities
+- 🏛️ **Spartacus:** Enterprise licensing model and CRM expansion (HawkSoft, Salesforce)
+- 🧠 **BizzBrain.AI:** Growing AI automation services and training programs
+- 💖 **BondQuest.AI:** Analyzing App Store metrics and user engagement
 - 🌟 **Momentum Flow:** Final preparations for App Store launch
-- 📚 **Learning:** Advanced RAG architectures and multi-agent orchestration patterns
+- 📚 **R&D:** Advanced RAG architectures and multi-agent orchestration patterns
 
 ---
 
@@ -195,6 +225,20 @@ Startup intelligence SaaS that evaluates business ideas with AI-powered scoring,
 
 ---
 
+## 💡 Services & Consulting
+
+Through **BizzBrain.AI**, I offer:
+
+**AI Development** - Custom AI agents, RAG systems, automation solutions  
+**Workflow Automation** - n8n and Make.com enterprise implementations  
+**AI Training** - Team upskilling and AI literacy programs  
+**AI Governance** - Responsible AI adoption frameworks  
+**Marketing Intelligence** - AI-powered audits and strategy consulting
+
+**Open to:** Freelance projects · Consulting engagements · Speaking opportunities · Technical partnerships
+
+---
+
 ## 🤝 Let's Connect
 
 I'm always interested in collaborating on innovative AI projects, discussing automation strategies, or helping businesses leverage intelligent systems.
@@ -202,29 +246,16 @@ I'm always interested in collaborating on innovative AI projects, discussing aut
 - 💼 **LinkedIn:** [Alessandro De Luca](https://www.linkedin.com/in/aldeluca)
 - 🌐 **BizzBrain.AI:** [bizzbrain.ai](https://bizzbrain.ai)
 - 🌐 **Carism USA:** [carismusa.com](https://carismusa.com)
+- 📧 **Email:** alex@carismusa.com
 - 📧 **Email:** alessandro@carism.it
-- 💡 **Collaborate:** Open an issue or fork any project
-
----
-
-## 💡 Services & Consulting
-
-Through **BizzBrain.AI**, I offer:
-
-- **AI Development** - Custom AI agents and automation solutions
-- **Workflow Automation** - n8n and Make.com implementations
-- **AI Training** - Team upskilling and AI literacy programs
-- **AI Governance** - Responsible AI adoption frameworks
-- **Marketing Intelligence** - AI-powered marketing audits and strategy
-
-**Open to:** Freelance projects · Consulting engagements · Speaking opportunities
+- 💬 **Open to:** Collaboration · Consulting · Speaking
 
 ---
 
 <div align="center">
 
-### 🌟 Making AI Accessible, Practical, and Profitable
+### 🌟 Building Intelligent Systems That Actually Work
 
-*Building the future, one intelligent system at a time.*
+**9 Production Apps · 30+ Years Experience · 100% AI-Powered**
 
-</div>
+*Making AI accessible, practical, and profitable—one system at a time.*
